@@ -1,0 +1,27 @@
+a{
+    font-family: 'Arial Narrow Bold'
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h3{
+    font-family: Georgia;
+}
+
+span {
+    font-style: italic;
+}
+
+h1{
+    font-size: small;
+}
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
